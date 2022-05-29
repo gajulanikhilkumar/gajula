@@ -35,6 +35,8 @@ public class TC01_Add_Skills2 {
 		findElement(By.id("btnSave")).click();
 	  
   }
+
+
   
   
   

@@ -33,7 +33,6 @@ public class TC01_Add_Skills4 {
   
   
   
-  
   public void OpenChromeBrowser()throws Exception {
 	  
 	  System.setProperty("webdriver.chrome.driver","C:\\chromedriver_win32\\chromedriver.exe");
